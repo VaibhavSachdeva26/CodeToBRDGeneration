@@ -1,0 +1,11 @@
+Flask
+sentence-transformers
+langchain_community
+langchain_core
+langchain_groq
+jinja2
+docx
+PyPDF2
+python-pptx
+faiss-cpu
+torch
